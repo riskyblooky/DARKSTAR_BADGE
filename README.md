@@ -57,8 +57,6 @@ The RGB LEDs are arranged in 2 sections:<br>
 | Main   | RGB   | Change Passive setting in Settings     |
 | Main    | RED Breathe    | Happens while Dead      |
 
-The front LED will illuminate green to indicate that you are currently lethal interrogated another badge and illuminate red to indicate that you are being lethal interrogated by another badge.<br>
-The rest of the RGB leds are in a chain, they can be customized using the settings menu and they will flash red when you have been hit.<br><br>
 
 The LEDs next to the power switch have two functions:<br>
 Blue LED: Indicates that the badge is charging <br>
@@ -135,7 +133,7 @@ Darkstar Inspired Details<br>
 
 <td>
 <p align="center">
-<img src="images/darkstar_orig.webp" width="400" height="200" border="10"/>
+<img src="images/darkstar_orig.webp" width="200" height="125" border="10"/>
 </p>
 </td>
 </tr>
