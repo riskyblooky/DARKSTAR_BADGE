@@ -91,19 +91,19 @@ The unofficial team logo<br>
 <tr>
 <td>
 <p align="center">
-<img src="images/LM_logo_white.png" width="250" height="50" border="10"/>
+<img src="images/LM_logo_white.png" border="10"/>
 </p>
 </td>
 
 
 <td>
 <p align="center">
-<img src="images/ACR_Logo_Full.png" width="250" height="250" border="10"/>
+<img src="images/ACR_Logo_Full.png" border="10"/>
 </p>
 </td>
 <td>
 <p align="center">
-<img src="images/Derpy_Remastered.png" width="200" height="200" border="10"/>
+<img src="images/Derpy_Remastered.png" border="10"/>
 </p>
 </td>
 </tr>
@@ -122,18 +122,18 @@ Darkstar Inspired Details<br>
 
 <td>
 <p align="center">
-<img src="images/skunk.jpg" width="200" height="200" border="10"/>
+<img src="images/skunk.jpg" border="10"/>
 </p>
 </td>
 <td>
 <p align="center">
-<img src="images/dc32-logo.webp" width="400" height="200" border="10"/>
+<img src="images/dc32-logo.webp"border="10"/>
 </p>
 </td>
 
 <td>
 <p align="center">
-<img src="images/darkstar_orig.webp" width="200" height="125" border="10"/>
+<img src="images/darkstar_orig.webp" border="10"/>
 </p>
 </td>
 </tr>
