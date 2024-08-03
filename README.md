@@ -13,7 +13,7 @@ Join us on <a href="https://discord.gg/sgUe73dNS8">discord</a><br><br>
 
 > Disclaimer
 >> [!NOTE]
->> Everything about this badge was made using opesource and public information.
+>> Everything about this badge was made using open-source and public information.
 >>
 >> The protocols were invented specifically for this badge, despite concepts being based on real protocols.
 >>
