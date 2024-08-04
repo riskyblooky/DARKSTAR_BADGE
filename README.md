@@ -34,16 +34,20 @@ Checkout the Global Scoreboard at <a href="http://airplanes.lol">airplanes.lol</
 ## Basics
 > Guides are boring, just go use the badge!
 
+##### Updating
+- To update badge, simply reset, or from main screen press left and right at same time.<br>
+Youll need to be connected to 'DefCon-Open' wifi.
+
 ### Buttons
-There are 4 (four) buttons on the top. <br>
+- There are 4 (four) buttons on the top. <br>
 These act like a d-pad, and the bar under the arrow indicates 'UP'<br>
 
-From the main menu, the Up, Down, and Right buttons are used to enter different sub-menus:<br>
+- From the main menu, the Up, Down, and Right buttons are used to enter different sub-menus:<br>
 Up button: Settings<br>
 Right button: PHM<br>
 Down button: Lethal Interrogate<br><br>
 
-On most screens:<br>
+- On most screens:<br>
 Up and Down will scroll through options.<br>
 Right will select or run an action.<br>
 Left is backspace/back.
@@ -59,21 +63,21 @@ The RGB LEDs are arranged in 2 sections:<br>
 
 
 The LEDs next to the power switch have two functions:<br>
-Blue LED: Indicates that the badge is charging <br>
-Red LED: Indicates the badge is powered on<br>
+- Blue LED: Indicates that the badge is charging <br>
+- Red LED: Indicates the badge is powered on<br>
 ### Display
-1.47" IPS 320x172 8 pin SPI
+- 1.47" IPS 320x172 8 pin SPI
 ### IR RX
 > Don't cover these! That's no fun.
 
-There are 2 (two) IR recievers. They receive IR :smile:
+- There are 2 (two) IR recievers. They receive IR :smile:
 IR is used to shoot nearby badges that you are targetting.
 ### IR TX
-There is 1 (one) IR LED at the front of the badge which is used to shoot other badges.
+- There is 1 (one) IR LED at the front of the badge which is used to shoot other badges.
 ### BATTERY
-The badge is powered by a 3.7v lithium 1000 mah 503450 with a 1.25mm JST connector. Charging is done via the USB-C port on the side of the badge. When charging is complete, the blue LED next to the power switch will turn off.
+- The badge is powered by a 3.7v lithium 1000 mah 503450 with a 1.25mm JST connector. Charging is done via the USB-C port on the side of the badge. When charging is complete, the blue LED next to the power switch will turn off.
 ### BUZZER
-Yep its a buzzer, it makes sound.
+- Yep its a buzzer, it makes sound.
 ### LIVERY
 <table>
 <tr>
@@ -141,7 +145,7 @@ Darkstar Inspired Details<br>
 
 -----
 ## ESP32
-The microcontroller of the badge is an ESP32-S3-Wroom-1 containing 16MB of Flash, 8MB of RAM, and a built-in PCB antenna. The microcontroller can communicate with other badges using BLE and talks to the battle space manager over Wi-Fi.
+- The microcontroller of the badge is an ESP32-S3-Wroom-1 containing 16MB of Flash, 8MB of RAM, and a built-in PCB antenna. The microcontroller can communicate with other badges using BLE and talks to the battle space manager over Wi-Fi.
 
 ### GPIO Layout
 
@@ -159,9 +163,9 @@ The microcontroller of the badge is an ESP32-S3-Wroom-1 containing 16MB of Flash
 
 -----
 ## Beyond Defcon32
-Need to do some configuring,<br>
+- Need to do some configuring,<br>
 Then flash whatever you want :)<br>
-Write some new functionality, and share it on Socials! <br>
+- Write some new functionality, and share it on Socials! <br>
 
 Keep an eye out for next years badge!
 
